@@ -1,0 +1,6 @@
+1. change icon ic_laucher.png to anger.png
+2. In stat_fragment, The button is made into contentDescription.
+3. In stat_fragemtn, the edittest become accessible. "Type here".
+4. In activity_detail, the text view beome accessible by "this is detail".
+5. In activity_detail, the text view(details_text) beome accessible by "this is location".
+6. In bar_chart_fragment, the view(no_harassment_message) become accessible by "no harassment"

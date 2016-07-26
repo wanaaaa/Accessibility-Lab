@@ -25,6 +25,7 @@
     <string name="birth_year">Year of Birth</string>
     <string name="zipcode">Search by zipcode</string>
     <string name="types_of_harassment">Types of harassment (%)</string>
+    <string name="ButtonOne">This is button One</string>
 
     <array name="shame_types">
         <item>Catcall</item>
